@@ -17,7 +17,7 @@ function getAllEmployees() {
 }
 
 let employeeRow = 0;
-let employeePage =;
+let employeePage;
 
 function printEmployees() {
 
